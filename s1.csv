@@ -1,0 +1,101 @@
+"","valence","year","acousticness","artists","danceability","duration_ms","energy","explicit","id","instrumentalness","key","liveness","loudness","mode","name","popularity","release_date","speechiness","tempo"
+"154953",1e-05,2017,0.627,"['Lullaby Waves']",0.0751,143988,0.999,0,"24gfzgiimYXIf2gxQxF4cf",0.992,6,0.971,-20.275,0,"Sleep: Good Night Waves",57,"2017-05-19",0.0479,174.487
+"145696",0.568,1970,0.881,"['Bob Dylan']",0.489,153107,0.315,0,"3vi3lrRxKJs3UQ7n2mi7zR",0,0,0.13,-10.844,1,"Belle Isle",25,"1970-06-08",0.0319,114.177
+"157578",0.522,1955,0.982,"['Hemant Kumar']",0.413,205027,0.416,0,"52IFy4tXoD8HwN6buPZueT",0.531,7,0.384,-11.614,1,"Bose Achhi Path Cheye",4,"1955-12-01",0.102,108.226
+"60955",0.53,1949,0.991,"['Suraiya']",0.453,198093,0.201,0,"0MdM7zcFLbcZhYuQV8gqAQ",0.0718,3,0.128,-13.477,0,"Seene Pe Mere Barq Gira Kar",0,"1949-01-01",0.0354,137.455
+"162547",0.89,1979,0.762,"['Smokey Robinson']",0.656,268440,0.745,0,"5xcGYN9S9PzhOt2UWGu4R5",0,9,0.227,-5.288,0,"I Love The Nearness Of You",22,"1979-05-22",0.0297,104.888
+"108995",0.106,1926,0.942,"['Frédéric Chopin', 'Maryla Jonas']",0.321,137347,0.121,0,"1wxPQWPuMWwDiyTac28z1T",0.95,5,0.239,-26.762,1,"Mazurkas, Op. 68: No. 3 in F Major",0,"1926",0.0581,80.141
+"53160",0.893,1999,0.265,"['Michael Salgado']",0.761,198067,0.916,0,"3lDMZAwtuSEUB0Sxkn7qrQ",3.53e-05,6,0.962,-3.749,1,"Palomita Blanca",45,"1999",0.0953,87.164
+"121407",0.519,2002,8.38e-05,"['Nirvana']",0.49,219040,0.835,0,"0LnkNEgEXv83bVVvgnB9Et",0.00373,4,0.0908,-6.323,0,"Come As You Are",48,"2002-10-29",0.0332,119.92
+"155857",0.63,1940,0.449,"['Эрнест Хемингуэй']",0.704,98400,0.0818,1,"4smSDZx3soRCqxdixsfztt",0,11,0.396,-19.826,0,"Часть 1.2 - По ком звонит колокол",2,"1940",0.962,78.744
+"78008",0.177,1948,0.977,"['Johann Sebastian Bach', 'Igor Stravinsky', 'CBC Symphony Orchestra']",0.261,137293,0.139,0,"2kkjiPz3UiFo9OpoHBvaW8",0.896,1,0.149,-20.744,1,"Chorale Variations on the Christmas Carol ""Vom Himmel hoch da komm' ich her"", BWV 769: Variation III (In Canone alla Settima)",0,"1948",0.0391,101.43
+"78669",0.655,1951,0.995,"['Smt. Vishnilal']",0.56,171034,0.1,0,"0r9xqQX8jaVixbWmmcJEnW",0.708,1,0.128,-16.295,0,"Guzre Zamane Yaad Na Aa",0,"1951-12-31",0.041,105.199
+"71089",0.708,2000,0.213,"['Hank Williams, Jr.']",0.726,188387,0.711,0,"1aEVtuwOqnIRreGWB1gYmT",1.41e-06,7,0.326,-7.728,1,"Whiskey Bent And Hell Bound",43,"2000-08-22",0.0414,105.034
+"51387",0.268,1990,0.368,"['Reba McEntire']",0.374,228973,0.335,0,"008ndXyCzkkN9fvJsfqkDS",3.61e-06,9,0.105,-11.291,1,"Rumor Has It",38,"1990-01-01",0.0276,170.297
+"41681",0.0414,1942,0.913,"['Ludwig van Beethoven', 'Arturo Toscanini']",0.122,934160,0.0937,0,"1pvmsyRx992vxyJ2hhXdCN",0.697,0,0.129,-16.073,0,"Symphony No. 3 in E-Flat Major, Op. 55 ""Eroica"": II. Marcia funebre. Adagio assai",0,"1942",0.0426,65.827
+"9280",0.904,1968,0.0271,"['Neil Diamond']",0.56,163907,0.827,0,"2SS3WeSe24ZqTlTSK4KzQZ",0.00285,8,0.0551,-4.157,1,"Cherry Cherry",54,"1968",0.0306,84.383
+"24329",0.961,1948,0.916,"['Δημήτρης Μπενέτος', 'Κώστας Γιαούζος']",0.567,195867,0.51,0,"0PXBpjOoRCcMYaSbABRxBh",0.85,1,0.0913,-9.02,0,"Θ' αφήσω γένια και μαλλιά",0,"1948-01-01",0.0543,119.399
+"3975",0.623,1941,0.995,"['Nalini Jaywant', 'Harish']",0.545,177348,0.165,0,"0YXXfxb9wRbIlyQJt3AIZ8",0.702,5,0.15,-12.795,1,"Hawa Basant Ki Dol Rahi Hai (with Dialogues)",0,"1941-12-31",0.279,66.797
+"66219",0.0702,1975,0.977,"['Robert Fripp', 'Brian Eno']",0.315,175320,0.155,0,"3LG2OxAR616MOrTH8EQg9i",0.922,5,0.142,-19.625,1,"Evensong",35,"1975",0.0366,132.842
+"98540",0.41,1969,0.692,"['Peter, Paul and Mary']",0.617,196827,0.175,0,"0Qgn91ZestsloqP5er8LcD",5.18e-05,9,0.117,-17.411,1,"Day Is Done",24,"1969-04-01",0.0325,120.799
+"116397",0.884,1977,0.0412,"['REO Speedwagon']",0.391,214533,0.822,0,"6UbV0Zx1AAcnQrqniWS5ke",0.00162,7,0.429,-10.866,1,"Any Kind of Love - Live on U.S. Tour - 1976",26,"1977-02-01",0.0332,148.637
+"116049",0.295,1976,0.0169,"['Chick Corea']",0.319,205893,0.662,0,"5qvMk0ZndEaclCG2HNRyqK",0.919,9,0.11,-15.468,0,"Lenore",33,"1976-01-01",0.0459,95.283
+"127851",0.342,1955,0.675,"['Billy May']",0.431,191107,0.283,0,"0FWmz4CETeXwW6PAUKyW3F",0.105,5,0.0963,-8.107,1,"Serenade (From ""The Student Prince"")",9,"1955-07-05",0.0328,118.928
+"104306",0.685,1998,0.44,"['Los Humildes']",0.53,193707,0.513,0,"12VUAHnUZLBRXKi3oGWFgS",0,4,0.2,-8.12,1,"Rosita de Olivo",41,"1998-10-27",0.0368,191.008
+"59043",0.366,1939,0.991,"['Mohammed Abdel Wahab']",0.324,393275,0.197,0,"4F0JpYNP18DAwecC2yHRmB",0.39,1,0.13,-13.402,0,"Ya Nasia Wade",0,"1939-01-01",0.034,70.45
+"124396",0.673,2018,0.0196,"['Dream, Ivory']",0.583,140643,0.717,0,"5F3DM6Iz4axGiLUhxvQLs1",0.745,0,0.0766,-5.212,0,"welcome and goodbye",62,"2018-03-31",0.0266,139.995
+"87165",0.889,1994,0.0739,"['Joe McBride']",0.655,307360,0.721,0,"4gdFN6gHpjay9QRCtuGnAq",0.883,7,0.0844,-8.482,0,"Walking In Rhythm",37,"1994-01-01",0.031,99.054
+"168416",0.565,2009,0.00193,"['Billy Talent']",0.588,229533,0.892,0,"1cWLHfLSF0FLAwvyznKkOb",0.000991,2,0.32,-4.322,1,"Devil on My Shoulder",39,"2009-09-22",0.0337,95.905
+"140106",0.662,2017,0.303,"['Alan Walker', 'Noah Cyrus', 'Digital Farm Animals', 'Juliander']",0.658,199111,0.678,0,"5yFSF6qQA1rcLsQRnBsZgb",0,1,0.361,-4.407,1,"All Falls Down (feat. Juliander)",68,"2017-10-27",0.058,97.976
+"98321",0.625,1968,0.804,"['The Mothers Of Invention']",0.487,154133,0.516,0,"3NP32S4CAu1hh6QQEAbmCL",0,4,0.56,-12.781,0,"Who Needs The Peace Corps?",22,"1968-05-04",0.0397,109.296
+"161157",0.328,1973,0.708,"['Lou Reed']",0.549,277067,0.464,0,"5cwtY6Oxhd785D0E8mSpTq",0.00016,10,0.182,-9.4,1,"Men of Good Fortune",31,"1973-07-01",0.0545,150.125
+"86939",0.182,1993,0.193,"['The Cranberries']",0.209,211493,0.294,0,"2rzOCsV0vF3V8yAIMeaFak",0.00371,0,0.0958,-12.681,1,"Put Me Down",44,"1993-03-01",0.0308,75.939
+"137718",0.396,2004,0.00672,"['Sum 41']",0.211,164987,0.974,0,"3wl4ZUBsuH7n2lsW4WjU05",0,8,0.328,-2.953,1,"Open Your Eyes",49,"2004-10-12",0.177,196.222
+"96308",0.226,1958,0.959,"['Dean Martin']",0.219,145067,0.257,0,"0fFxXwKKkPVOwX4qqblvBx",0.00599,8,0.296,-17.369,1,"Tu Sei Bella, Signorina",15,"1958",0.037,97.462
+"148355",0.836,1983,0.253,"['Elton John']",0.575,454733,0.514,0,"44Ow6QD0WKNDXKa7V7gmcB",0.000643,7,0.152,-9.038,1,"Dreamboat",29,"1983-05-30",0.0417,94.425
+"151768",0.119,2000,0.323,"['Mojave 3']",0.483,441173,0.244,0,"6kh7ySeueeG6ojSbChAAo2",0.625,7,0.113,-15.25,1,"My Life in Art",40,"2000-05-15",0.0319,102.577
+"70247",0.219,1996,0.452,"['Type O Negative']",0.432,397840,0.665,0,"1Yb9Nq9PTEegiOUGwyGHuP",0.857,11,0.0912,-9.069,1,"Wolf Moon (Including Zoanthropic Paranoia)",47,"1996-08-19",0.0324,83.619
+"22442",0.548,1938,0.996,"['Abbasuddin Ahmed']",0.679,181813,0.0735,0,"4PEa0lXZejxG3nY6bnS2BO",0.588,9,0.155,-18.308,0,"Kiser Mor Randhan",0,"1938-12-01",0.13,143.503
+"56588",0.392,2016,0.112,"['Rihanna']",0.292,120627,0.567,1,"1KnJwhZU3DIBe54Q4HPpIl",1.01e-06,3,0.119,-4.191,1,"Higher",63,"2016-01-28",0.0416,153.199
+"17903",0.297,2011,0.624,"['The Oh Hellos']",0.557,256007,0.299,0,"2c62Xf5Po1YSa1N6LOjPHy",0.0308,0,0.0914,-10.634,1,"Hello My Old Heart",67,"2011-12-01",0.0266,90.081
+"26288",0.514,1958,0.94,"['Dean Martin']",0.603,166160,0.233,0,"5DX3P3b7kv8266XyuA7fsS",0,6,0.126,-12.3,1,"Angel Baby - 1998 Remaster",31,"1958",0.038,111.263
+"8363",0.773,1963,0.864,"['Tito Puente']",0.714,190417,0.941,0,"3FCN9xduajof2MGIJbWdGe",0.817,2,0.0944,-6.177,1,"Ran Kan Kan",45,"1963-12-31",0.0422,102.102
+"46105",0.086,1964,0.943,"['Doris Day']",0.112,185853,0.284,0,"01URnM2Xw2SAGPZFbfxDda",0.000513,10,0.138,-12.572,1,"Toyland",28,"1964-09-14",0.0333,57.168
+"155681",0.582,1930,0.994,"['Francisco Canaro']",0.749,182507,0.216,0,"7fZFhdJIqfGGmtIl2bDZEr",0.885,9,0.194,-7.175,1,"Largue a Esa Mujica - Instrumental (Remasterizado)",0,"1930-11-13",0.0831,116.42
+"58309",0.492,1931,0.98,"['Frédéric Chopin', 'Robert Lortat']",0.346,98467,0.134,0,"5Qwo4Hjy0WsLpWSxZTi0in",0.952,1,0.147,-23.612,1,"12 Études, Op. 10: No. 5 in G-Flat Major ""Black Keys""",0,"1931",0.0378,106.622
+"32504",0.719,1989,0.292,"['The Cure']",0.516,258853,0.748,0,"7BffxdidCNDN2cOP1XlCyv",0.763,4,0.11,-7.184,1,"Closedown - 2010 Remaster",40,"1989-05-02",0.0281,93.927
+"33206",0.951,1993,0.178,"['Lobo']",0.628,177933,0.603,0,"3wRiwV9HdarzkktRH7If46",1.73e-05,6,0.0686,-10.286,1,"Me and You and a Dog Named Boo",54,"1993-06-11",0.0312,120.782
+"63286",0.586,1961,0.728,"['Johnny Hodges', 'Billy Strayhorn']",0.656,147293,0.265,0,"5jFn9RIQECDXN8fYA90zE7",0.00204,10,0.341,-15.842,0,"Gal From Joe's",24,"1961-01-01",0.0574,140.127
+"24851",0.909,1951,0.871,"['Chubby Jackson Big Band', 'Gerry Mulligan']",0.58,164533,0.406,0,"3h4kJZZJx1GnwgahhLq66k",0.217,5,0.322,-13.695,0,"So What - Instrumental",10,"1951-10-05",0.0529,119.7
+"102424",0.861,1988,0.413,"['Lyle Lovett']",0.738,182907,0.416,0,"4TgMVibUlFw4IVojfJ3kcG",0,9,0.158,-15.447,1,"Give Back My Heart",30,"1988-01-11",0.0747,118.222
+"102517",0.434,1989,0.283,"['Eric Clapton']",0.559,308747,0.862,0,"0MSBMSfQzkfG5jq8e4vTE1",0.00106,7,0.546,-7.819,1,"Bad Love",41,"1989-11-07",0.0514,124.596
+"71993",0.903,2004,0.299,"['Sammy Kershaw']",0.767,171467,0.767,0,"2653w6bJ1hFavaz9mGE9aT",0,9,0.0783,-6.483,1,"She Don't Know She's Beautiful",45,"2004-01-01",0.03,116.147
+"169318",0.0392,2014,0.791,"['Novo Amor']",0.411,263046,0.304,0,"7gG2urq4CeTzLJJZ2Ygnoy",0.402,3,0.0896,-11.311,1,"Cold",53,"2014-03-31",0.0345,67.553
+"127035",0.149,1951,0.947,"['Franz Lehár', 'Ljuba Welitsch', 'Rudolf Moralt', 'Vienna State Opera Orchestra']",0.211,286067,0.245,0,"24TQgIVEkU7uQmnez3eIRq",0,7,0.162,-14.435,1,"The Merry Widow (Die lustige Witwe) / Act 2: Vilja-Lied",0,"1951",0.0435,82.397
+"129081",0.313,1961,0.828,"['Dinah Washington']",0.329,150160,0.171,0,"1cNQmsHi40PofNelCGCNGI",0.00105,1,0.127,-13.935,1,"I'll Come Back For More",14,"1961-01-01",0.0316,74.661
+"117793",0.89,1984,0.585,"['Madonna']",0.875,271307,0.597,0,"0S9EixwOfXC0LyILi8kVFh",1.76e-05,9,0.0706,-11.916,0,"Pretender",34,"1984-11-12",0.0335,111.047
+"163443",0.238,1984,2.86e-05,"['W.A.S.P.']",0.22,236240,0.878,1,"5kI3vUpeHX3Y8EgzYHhCLX",0.0168,5,0.277,-7.398,0,"The Torture Never Stops",29,"1984",0.103,156.059
+"170418",0.355,2019,0.896,"['Lana Del Rey']",0.674,247148,0.205,0,"5DSi7heBC8eTIFROBvttnp",0.0272,2,0.114,-14.173,1,"Season Of The Witch",63,"2019-08-09",0.0399,95.984
+"15523",0.76,1999,0.0352,"['702']",0.705,166693,0.725,0,"4VSyH8AkIt3kaR5xIPFVVi",0.0149,4,0.194,-7.435,1,"Where My Girls At",59,"1999-01-01",0.0506,92.186
+"159186",0.691,1963,0.947,"['Patsy Cline', 'The Jordanaires']",0.556,120867,0.131,0,"5QXWmCpTKZzYas4fKKAkUY",0,0,0.112,-17.868,1,"Walkin' After Midnight",13,"1963-06-10",0.0346,103.143
+"14574",0.407,1994,0.5,"['Nirvana']",0.569,263227,0.579,0,"3bH8PZsfbCRIoeNiFm7JmU",2.79e-05,1,0.109,-10.988,1,"All Apologies",60,"1994-11-01",0.0716,108.998
+"120197",0.737,1996,0.0814,"['Bill Anderson']",0.66,160440,0.378,0,"1LWocjmlZPQjwfFV4cJ6HV",4.67e-05,9,0.11,-12.857,1,"Bright Lights And Country Music - Re-Recorded In Stereo",36,"1996-10-29",0.0292,135.391
+"169131",0.174,2013,0.926,"['Mandolin Orange']",0.441,196533,0.2,0,"1wTEU95kyZFCj5d6cUIysf",0.0188,7,0.0864,-10.953,1,"House of Stone",47,"2013-08-20",0.0287,82.282
+"57198",0.451,2019,0.214,"['Juice WRLD']",0.583,192094,0.815,1,"3usM520kfIRpWNaYOwdnYI",0,7,0.413,-4.257,1,"Rider",68,"2019-03-08",0.0365,140.031
+"43071",0.046,1949,0.837,"['Sarah Vaughan']",0.136,161400,0.247,0,"2PD5RQiMV0bDXPDQukDM9y",0,10,0.164,-13.646,1,"Pinky",9,"1949",0.0376,187.34
+"134103",0.272,1986,0.522,"['Billy Joel']",0.425,253053,0.398,0,"5p10hALrmUcjeGjPU4TJ6c",0,0,0.101,-10.544,1,"Temptation",28,"1986-07-28",0.0302,178.15
+"1203",0.801,1927,0.995,"['Ignacio Corsini']",0.54,173480,0.387,0,"2EQcrI3nWVhsgDiKXZJCQ9",0.711,7,0.115,-19.832,1,"Mis Harapos - Remasterizado",0,"1927-05-14",0.0442,126.711
+"129539",0.325,1963,0.855,"['Herbie Hancock']",0.621,395467,0.445,0,"27f0Yf20I6CITv7q1BwEr3",0.0214,5,0.0841,-9.754,0,"And What If I Don't Know - Remastered 1999",17,"1963-03-19",0.0453,110.561
+"168456",0.861,2010,0.876,"['Bo Burnham']",0.523,188867,0.65,1,"3abyiZgVtNR9vkFRXpsVQb",0,9,0.698,-6.911,1,"Ironic",45,"2010-10-19",0.336,89.816
+"32145",0.484,1988,0.02,"['Will To Power']",0.625,247200,0.435,0,"0kzSooCGpuphLwn8iTuO9h",0.00243,7,0.201,-12.02,1,"Baby, I Love Your Way/Freebird",56,"1988-08-09",0.0286,150.829
+"150503",0.902,1994,0.725,"['The Kendalls']",0.617,153867,0.638,0,"0bMugNnsdbGA2uLNCw81K0",0,6,0.071,-8.001,1,"Heaven's Just A Sin Away - Re-Recorded In Stereo",34,"1994-04-05",0.0297,152.816
+"78076",0.825,1948,0.994,"['Sahana Maitra']",0.747,191019,0.124,0,"32yiR4x8aD7thZi9B0Yw5H",0.000124,5,0.135,-8.376,0,"Charkha Kato To Beda Paar Hai",0,"1948-12-31",0.214,112.355
+"90859",0.885,2013,0.00814,"['The 1975']",0.705,202296,0.83,1,"424ml6U1wmEarzw26uDtCS",0.00135,2,0.0762,-4.918,1,"Heart Out",51,"2013",0.0274,118.446
+"167283",0.135,2004,0.502,"['F.I.R.']",0.509,287027,0.646,0,"0Q4YuuiCuxIIKUw2fb1cmV",1.23e-05,5,0.0989,-4.051,0,"我們的愛",55,"2004-04-30",0.0301,136.054
+"84594",0.152,1981,0.813,"['John Williams', 'London Symphony Orchestra']",0.31,411827,0.346,0,"3JHiyPyEGfdFlAgbX0iS7M",0.91,0,0.107,-11.232,1,"Washington Ending / Raiders March",34,"1981-01-01",0.0392,131.117
+"129298",0.777,1962,0.891,"['Ahmad Jamal']",0.681,260520,0.224,0,"4G2eNwMZLCVCwwpifZ4iRW",0.924,1,0.155,-20.353,1,"Falling In Love With Love - Live At The Blackhawk, San Francisco/1961",11,"1962-11-11",0.0416,99.796
+"26319",0.647,1958,0.867,"['Bo Diddley']",0.72,184373,0.206,0,"3BnfMMWFkPFpgI41mHWOKf",1.18e-05,11,0.129,-16.428,0,"Before You Accuse Me (Take A Look At Yourself)",29,"1958-01-01",0.0462,107.806
+"93311",0.456,1940,0.989,"['Giorgos Papasideris']",0.397,203827,0.299,0,"2NPfhRPcRkG8EKqxOdDECk",0.0562,5,0.378,-10.559,1,"Dervenakia",0,"1940-01-01",0.0422,62.684
+"88835",0.365,2003,0.0635,"['Julieta Venegas']",0.64,240120,0.6,0,"7mJG18yZGq0aXKWNtK3FQf",8.48e-05,4,0.0925,-7.997,0,"Algo Está Cambiando",57,"2003-11-18",0.0359,87.008
+"20398",0.662,1928,0.992,"['Paul Whiteman']",0.473,181800,0.154,0,"0skgypDYFLZKdHXjCXH8ZT",0.0507,9,0.215,-17.554,0,"Marianne",0,"1928",0.063,183.328
+"5339",0.937,1948,0.994,"['Johnny Green', 'MGM Studio Orchestra']",0.633,66573,0.144,0,"4DZ40512IFfVjjK7Xf6V3O",0.907,0,0.147,-20.112,1,"Roof Garden - Drum Crazy Reprise",6,"1948-07-08",0.0402,96.411
+"152016",0.619,2001,0.00583,"['Long Beach Dub Allstars']",0.642,194867,0.931,0,"6K8hK9VfSqlOWby6v4O0a8",2.32e-05,9,0.0942,-2.236,1,"Rolled Up",39,"2001-01-01",0.0847,97.126
+"92088",0.543,2019,0.16,"['Brantley Gilbert', 'Colt Ford', 'Lukas Nelson', 'Willie Nelson']",0.629,181173,0.658,0,"39TYRr1lPpurfYPXzsOiBV",0,6,0.245,-6.703,0,"Welcome To Hazeville",63,"2019-10-04",0.0463,131.958
+"131818",0.704,1975,0.0455,"['Waylon Jennings']",0.57,149493,0.305,0,"7rCxnDG0DY25cSiy6qrtSA",0.14,11,0.106,-10.636,1,"Let's Turn Back the Years",24,"1975-06-01",0.0258,81.475
+"24372",0.594,1948,0.975,"['Franz Schubert', 'Jascha Heifetz']",0.485,138600,0.187,0,"0bVtm4K5lK6kvgh7df7LTE",0.239,10,0.207,-16.023,1,"Sonatina, D. 408/Op. 137, No. 3 in G Minor: Allegro moderato",0,"1948",0.0419,140.249
+"75743",0.645,1929,0.0363,"['Эрих Мария Ремарк']",0.745,114800,0.186,1,"7nkJgLxd8XVjpQ8gKWzWte",0,10,0.183,-20.046,0,"Часть 105.2 - На Западном фронте без перемен",0,"1929",0.964,65.719
+"50102",0.223,1984,0.0129,"['Cocteau Twins']",0.339,233160,0.677,0,"0N4JIfesak2J82auEiirwa",0.00162,2,0.105,-11.843,1,"Ivo",43,"1984-11-01",0.0453,187.622
+"126989",0.485,1951,0.93,"['Umberto Giordano', 'Mario Rossi', 'Orchestra Lirica e Coro di Milano della RAI']",0.408,64506,0.246,0,"1yPEcs2QaAwQEI4HCaHfRA",0.0417,2,0.231,-17.298,1,"Portentoso!...",0,"1951",0.364,168.646
+"165600",0.242,1995,9.36e-06,"['Fear Factory']",0.519,312653,0.976,0,"5W6lI8zmyhSd7xO10wEhwf",0.0594,11,0.257,-6.024,0,"Self Bias Resistor",39,"1995",0.0662,93.051
+"86009",0.0798,1988,0.763,"['Henry Mancini', 'Mantovani']",0.128,160000,0.203,0,"2BpyzY3nIhoqF37Xh5TMr8",0.949,0,0.0944,-16.936,1,"Moon River - From ""Breakfast At Tiffanys""",42,"1988-01-01",0.0375,77.113
+"129518",0.395,1963,0.932,"['Mose Allison']",0.723,179840,0.157,0,"6V6pXFdU5ucHN0xilIDZDb",0.00799,0,0.1,-14.465,1,"One Room Country Shack",17,"1963",0.0526,71.582
+"159556",0.487,1965,0.702,"['Elvis Presley']",0.611,127693,0.308,0,"1wia2eBD8ELGfEUTGTaiIG",0.000214,7,0.0482,-12.785,1,"For the Millionth and the Last Time",22,"1965-07-19",0.0471,106.381
+"63593",0.191,1962,0.601,"['John Coltrane']",0.524,451333,0.305,0,"02TxPNiAnPapRpRquJRFWO",0.279,11,0.0946,-16.051,1,"Mr. Knight",22,"1962-07",0.0402,91.061
+"57471",0.276,1926,0.409,"['Georgette Heyer', 'Irina Salkow']",0.725,132141,0.124,0,"3XyxDIGxnrxlUb9NtygWQf",0,8,0.135,-21.536,0,"Kapitel 105 - Der Page und die Herzogin",1,"1926",0.931,122.101
+"94027",0.178,1946,0.864,"['Pyotr Ilyich Tchaikovsky', 'Jascha Heifetz', 'Fritz Reiner', 'Chicago Symphony Orchestra']",0.314,951187,0.128,0,"4qgc0dP8mvoZvB6rdHFd8f",0.0368,7,0.0745,-20.246,1,"Violin Concerto in D Major, Op. 35: I. Allegro moderato",1,"1946",0.0428,92.706
+"66294",0.788,1976,0.0388,"['Stanley Clarke']",0.477,470373,0.539,0,"0fuLT4IyhmLbbrKPqJqE80",0.777,11,0.154,-12.448,0,"School Days",41,"1976",0.05,142.859
+"156098",0.434,1945,0.988,"['Sergei Rachmaninoff', 'William Kapell', 'Fritz Reiner']",0.381,40667,0.341,0,"5qlcuLOU3UzRxJyML8qNia",0.81,5,0.172,-14.106,1,"Rhapsody on a Theme of Paganini, Op.43: Variation XIV: L'istesso tempo",0,"1945",0.0428,157.065
+"38527",0.68,2020,0.473,"['A Boogie Wit da Hoodie']",0.644,161765,0.587,1,"6cZH4rX1KTt1aJ3Ql6Ynja",0,7,0.0759,-6.736,0,"Me and My Guitar",76,"2020-02-14",0.353,173.972
+"87061",0.711,1994,0.0126,"['Caifanes']",0.576,218173,0.859,0,"1bWcjMOceu7dFyBGBo3jJ9",8e-04,2,0.341,-8.22,1,"Miedo",53,"1994",0.034,130.011
+"22135",0.643,1937,0.965,"[""Juan D'Arienzo""]",0.685,131971,0.221,0,"0eLR9TsbPggrIjbwLeXtz1",0.0107,2,0.184,-13.912,1,"El temblor (con Alberto Echague)",3,"1937-04-12",0.139,106.047
+"164601",0.473,1990,0.787,"['Jose Mari Chan']",0.293,159333,0.265,0,"70xTqtDlOgFSQ9UK9SwIQB",8.58e-05,10,0.0912,-14.57,1,"Christmas Children",44,"1990",0.0379,201.421
