@@ -6,9 +6,9 @@ library(samplingbook)
 library(EnvStats)
 
 # Загрузка данных
-data <- read.csv(file = 'data.csv')
-s1 <- read.csv(file = 's1.csv')
-s2 <- read.csv(file = 's2.csv')
+data <- read.csv(file = 'data/data.csv')
+s1 <- read.csv(file = 'data/s1.csv')
+s2 <- read.csv(file = 'data/s2.csv')
 
 
 # Генерация случайных выборок
@@ -37,13 +37,13 @@ x <- as.integer(names(t))
 # ===== 2 =====
 # Эмпирическая функция распределения
 F <- ecdf(data$key)
-jpeg("1.jpg", width = 350, height = 350)
+jpeg("images/1.jpg", width = 350, height = 350)
 plot(F, lwd = 2)
 lines(x, cumsum(p), type = "l", col = "red", lwd = 2) # кумулята
 dev.off()
 
 # ===== 3 =====
-jpeg("2.jpg", width = 350, height = 350)
+jpeg("images/2.jpg", width = 350, height = 350)
 hist(data$acousticness, freq = FALSE)
 dev.off()
 
@@ -126,7 +126,7 @@ dif <- pn - t1 # разница
 cat("\nX-squared: ", sum(dif^2 / pn)) # вычисленное
 cat("\ncrit: ", qchisq(.05, df = df, lower.tail = FALSE)) # критическое значение
 
-jpeg("3.jpg", width = 350, height = 350)
+jpeg("images/3.jpg", width = 350, height = 350)
 hist(s1$key, freq = FALSE)
 curve(dnorm(x, mean = mean(s1$key), sd = sd(s1$key)), col = "red", lwd = 2, from = 0, to = 11, add = T)
 dev.off()
@@ -141,7 +141,7 @@ x0 <- minMax[which(abs(cdf1(minMax) - cdf2(minMax)) == max(abs(cdf1(minMax) - cd
 y0 <- cdf1(x0)
 y1 <- cdf2(x0)
 
-jpeg("4.jpg", width = 350, height = 350)
+jpeg("images/4.jpg", width = 350, height = 350)
 plot(cdf1, verticals = TRUE, do.points = FALSE, col = "blue")
 curve(punif(x), col = "red", add = TRUE, lwd = 2)
 dev.off()
@@ -149,7 +149,7 @@ dev.off()
 # ===== 8 =====
 # Критерий Колмогорова–Смирнова для двух выборок
 ks.test(s1$acousticness, s2$acousticness)
-jpeg("5.jpg", width = 350, height = 350)
+jpeg("images/5.jpg", width = 350, height = 350)
 plot(cdf1, verticals = TRUE, do.points = FALSE, col = "blue")
 plot(cdf2, verticals = TRUE, do.points = FALSE, col = "green", add = TRUE)
 points(c(x0, x0), c(y0, y1), pch = 16, col = "red")
